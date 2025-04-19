@@ -117,7 +117,7 @@ class Ui_MainWindow(object):
         else:
             print("Affected By PNEUMONIA")
             speak("Affected By PNEUMONIA")
-
+ 
 
 if __name__ == "__main__":
     import sys
