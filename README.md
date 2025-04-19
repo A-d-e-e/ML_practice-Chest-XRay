@@ -73,6 +73,4 @@ python chest_xray.py
 3. Commit your changes and push: `git push origin feature/YourFeature`.
 4. Open a pull request with a detailed description.
 
-## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
