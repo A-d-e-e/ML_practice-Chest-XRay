@@ -14,7 +14,6 @@ from PyQt5.QtWidgets import QMessageBox
 
 from win32com.client import Dispatch
 
-
 def speak(str1):
     speak=Dispatch(("SAPI.SpVoice"))
     speak.Speak(str1)
